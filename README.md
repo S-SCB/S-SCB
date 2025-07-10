@@ -43,3 +43,4 @@ Check out my [portfolio!](https://baij.co.in)
 <p align="center">
 🔥 Always Learning • ⚙️ Always Building • 🚀 Always Improving
 </p>
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=S-SCB.S-SCB)
