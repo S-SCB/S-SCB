@@ -37,10 +37,15 @@ Check out my [portfolio!](https://baij.co.in)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
 <p align="center">
 🔥 Always Learning • ⚙️ Always Building • 🚀 Always Improving
 </p>
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=S-SCB.S-SCB)
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=S-SCB.S-SCB)
+
+
+
